@@ -108,7 +108,7 @@ IVD (In Vitro Diagnostics) / CDx (Companion Diagnostics)
 ## Skill Sets
 
 - Lead Biostatistics efforts designing and executing analyses for **validation studies** in support of in vitro diagnostic submissions (e.g., IVDR, 510(k), CTA/CDx/PMA (Premarket Approval Application), etc.)
-- Perform relevant statistical analyses (e.g., sample size, power, agreement, precision, LoB/LoD/LoQ calculations) for validation studies of varying complexity
+- Perform relevant statistical analyses (e.g., **sample size, power, agreement, precision, LoB/LoD/LoQ** calculations) for validation studies of varying complexity
 - Produce high quality presentations and author documentation of analysis plans, methods, results, and interpretation
 - Effectively convey statistical concepts and results to cross-functional internal and external collaborators and stakeholders
 - Promote statistical and regulatory best practices
